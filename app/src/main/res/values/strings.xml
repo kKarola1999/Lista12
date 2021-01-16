@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab12</string>
+    <string name="btn">Send message</string>
+    <string name="text">Enter a message</string>
+    <string name="text1">Message</string>
+    <string name="data">Date</string>
+
+</resources>
